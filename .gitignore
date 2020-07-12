@@ -10,6 +10,5 @@ menus-diarios/*.key
 menus-diarios/*.mobileprovision
 menus-diarios/*.orig.*
 menus-diarios/web-build/
-menus-diarios/
 menus-diarios/# macOS
 menus-diarios/.DS_Store
