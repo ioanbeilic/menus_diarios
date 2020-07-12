@@ -1,0 +1,15 @@
+server/node_modules/
+menus-diarios/node_modules/
+menus-diarios/node_modules/**/*
+menus-diarios/.expo/*
+menus-diarios/npm-debug.*
+menus-diarios/*.jks
+menus-diarios/*.p8
+menus-diarios/*.p12
+menus-diarios/*.key
+menus-diarios/*.mobileprovision
+menus-diarios/*.orig.*
+menus-diarios/web-build/
+menus-diarios/
+menus-diarios/# macOS
+menus-diarios/.DS_Store
